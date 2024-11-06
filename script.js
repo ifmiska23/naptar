@@ -87,4 +87,5 @@ kovetkezo.addEventListener('click', function(){
         naptar.appendChild(sor);
     
     }
-})
+}
+)

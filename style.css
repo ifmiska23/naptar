@@ -7,19 +7,23 @@
     margin: auto;
     box-shadow: 5px 5px 5px ;
 }
+
 body{
     background-color: aqua;
 }
+
 #fejlec{
     display: flex;
     justify-content: space-evenly;
 }
+
 #naptar{
     grid-template-columns: repeat(7, 1fr);
     display: grid;  
     gap: 5px;
     grid-column: 5;
 }
+
 #gombok{
     width: 50px;
     
