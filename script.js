@@ -1,5 +1,5 @@
 let elozo = document.createElement("button");
-elozo.innerText = "Előző nap";
+elozo.innerText = "Előző hónap";
 let ido = document.createElement("span");
 var ev = 2024
 var honap = 11;
